@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ykairuo
 - 👀 I’m interested in Data Analytics, Finance, Biology, CS, Skateboarding, cooking.
-- 🌱 I’m currently learning Python, R, SQL
+- 🌱 I’m currently learning Python, R, SQL, Machine Learning, Bioinformatics Algorithms
 - 💞️ I’m looking to collaborate on interting projects
 - 📫 How to reach me ykairuo@gmail.com
 
